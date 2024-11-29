@@ -1,5 +1,5 @@
 [package]
-name = "filesystem-hashing"
+name = "Fasching"
 description = "Track Filesystem Integrity via Snapshots which contain a HashMap of the files and their corresponding hash signature from a specified directory"
 version = "0.3.4"
 edition = "2021"
